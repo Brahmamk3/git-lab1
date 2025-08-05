@@ -14,3 +14,9 @@ else:
 
 # path=os.path.join(os.getcwd(),folder) : join folder with current path
 
+""" 
+output:
+brahm@Brahmanjaneyulu MINGW64 /c/Devops-45days/YAML/git-lab-1 (master)
+$ python question3.py 
+test_folder not exists
+"""

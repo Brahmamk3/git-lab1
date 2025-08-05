@@ -6,3 +6,11 @@ import os
 
 current_directory=os.getcwd()
 print("current directory:",current_directory)
+
+"""
+output:
+brahm@Brahmanjaneyulu MINGW64 /c/Devops-45days/YAML/git-lab-1 (master)
+$ python question1.py 
+current directory: C:\Devops-45days\YAML\git-lab-1
+
+"""
