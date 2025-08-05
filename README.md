@@ -3,5 +3,4 @@
 "" 
 "## Features" 
 "- Version control with Git" 
-## Features
-- Version control with Git
+
