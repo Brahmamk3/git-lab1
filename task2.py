@@ -55,4 +55,14 @@ with open(summary_path, 'w') as summary_file:
     for entry in summary_data:
         summary_file.write(entry + "\n")
 
-print(f"✅ Done. Modified files + summary saved in '{output_folder}' folder.")
+print(f"Done. Modified files + summary saved in '{output_folder}' folder.")
+
+
+"""
+output:
+brahm@Brahmanjaneyulu MINGW64 ~/OneDrive/Desktop/DevopsNotes/PythonScriptiing/git-lab1 (master)
+$ python task2.py
+Done. Modified files + summary saved in 'data_output' folder.
+
+"""
+
