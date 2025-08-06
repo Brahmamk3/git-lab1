@@ -1,0 +1,4 @@
+Summary of Processed Files
+===========================
+file.txt | Lines: 5 | Words: 11
+file1.txt | Lines: 4 | Words: 7
